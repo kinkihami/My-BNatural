@@ -43,6 +43,9 @@ nav ul li a{
     width: 100%;
     height: 50px;
     background: #28572b;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
 }
 .itc{
     width: 83px;
